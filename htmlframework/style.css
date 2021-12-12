@@ -1,0 +1,56 @@
+body{
+  font-size: 12px;
+  font-weight: 100;
+}
+
+.container{
+  padding-bottom: 50px;
+}
+
+#headline {
+  font-size: 4em;
+  font-weight: 700;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+#byline {
+  font-size: 1.5em;
+  font-weight: 700;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+p{
+  font-family: Georgia, serif;
+  font-size: 15px;
+  line-height: 180%
+}
+
+h2{
+  font-size: 2em;
+  font-weight: 700;
+  padding-top: 20px;
+}
+
+img{
+  margin: 0 auto;
+}
+
+.caption{
+  font-size:11px;
+}
+
+.footer {
+  background-color: black;
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding-bottom: 50px;
+}
+
+#footernotes {
+  font-size: 1em;
+  color: white;
+  text-align: center;
+}

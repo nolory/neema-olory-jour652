@@ -32,7 +32,7 @@ h2{
   font-size: 2.5em;
   font-weight: 500;
   padding-top: 20px;
-  color: #f23030;
+  color: rgb(62, 88, 207);
   text-transform:uppercase;
 }
 
@@ -67,7 +67,8 @@ h2{
   margin:0 auto;
   text-transform: uppercase;
   font-weight: 800;
-  font-size: 1.5em
+  font-size: 1.5em;
+  color: rgb(62, 88, 207);
 }
 
 .code-red{
@@ -121,7 +122,7 @@ h2{
 }
 
 .dropcap {
-  color: #f23030;
+  color: rgb(62, 88, 207);
   font-size: 6em;
   float:left;
   line-height: 60px;

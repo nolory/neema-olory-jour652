@@ -68,11 +68,9 @@ h2{
   text-transform: uppercase;
   font-weight: 800;
   font-size: 1.5em
+  color: #3449eb
 }
 
-.code-red{
-  background-color: #f23030
-}
 
 /* End Top Nav / Top Hat */
 
@@ -121,7 +119,7 @@ h2{
 }
 
 .dropcap {
-  color: #f23030;
+  color: blue;
   font-size: 6em;
   float:left;
   line-height: 60px;
